@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedeval98" alt="fedeval98" /></a> </p>
 
-- 🔭 I’m currently working on [bdoSearchGuild](https://github.com/fedeval98/bdoSearchGuild)
+- 🔭 I’m currently working on [SpotifyToYoutube](https://github.com/fedeval98/SpotifyToYoutube)
 
-- 🌱 I’m currently learning **React, Discord4J, AWS and Azure.**
+- 🌱 I’m currently learning **OAuth, Discord4J, AWS and Azure.**
 
 - 👯 I’m updating [Homebanking](https://github.com/fedeval98/Homebanking)
 
