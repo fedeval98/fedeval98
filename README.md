@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedeval98" alt="fedeval98" /></a> </p>
 
-- 🔭 I’m currently working on [SpotifyToYoutube](https://github.com/fedeval98/SpotifyToYoutube)
+- 🔭 I’m currently working on [DroprofitAcademy](https://github.com/fedeval98/droprofitAcademy)
 
 - 🌱 I’m currently learning **OAuth, Discord4J, AWS and Azure.**
 
