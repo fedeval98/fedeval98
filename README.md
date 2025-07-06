@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **contact.fedeval@gmail.com**
 
-- 📄 - 📄 <a href="https://drive.google.com/file/d/1loC0zdfgRFqUSix0LzB4fVZMTCjV4zG-/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Know about my experiences reading my CV</a>
+- 📄 <a href="https://drive.google.com/file/d/1loC0zdfgRFqUSix0LzB4fVZMTCjV4zG-/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Know about my experiences reading my CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
